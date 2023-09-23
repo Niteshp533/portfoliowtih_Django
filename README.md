@@ -13,4 +13,3 @@ python manage.py runserver
 
 Open a web browser and navigate to http://localhost:8000.
 
-<img src ='' />
